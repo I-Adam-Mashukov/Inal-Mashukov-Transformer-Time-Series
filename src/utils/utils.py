@@ -25,6 +25,9 @@ def get_parameters():
 
     return config
 
+# USE EITHER PREPROCESSING PIPELINE.
+# THE ONE AFTER THIS IS MEANT FOR EXPERIMENTAL INTEGRITY AND REPRODUCABILITY USED WITH A DIFFERENT MODEL AND CAN BE DISPENSED OF.
+# IN THAT CASE, UNCOMMMENT THE FOLLOWING METHOD.
 # def data_loader(data_path: str = './data/'):
 
 #     X_train, y_train = np.load(data_path + 'X_train.npy'), np.load(data_path + 'y_train.npy')
