@@ -1,4 +1,4 @@
-### Written by Dr. Inal Mashukov.
+### Written by Dr. Inal Adam Mashukov.
 # MIT LICENSE
 ### General Documentation:
 Transformer model suitable for classification, regression, other tasks.  
